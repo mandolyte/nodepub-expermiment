@@ -1,450 +1,453 @@
-12tribesofisrael.md
-abyss.md
-acacia.md
-accuse.md
-acknowledge.md
-acquit.md
-administration.md
-admonish.md
-adversary.md
-afflict.md
-age.md
-alarm.md
-alms.md
-altarofincense.md
-amazed.md
-ambassador.md
-anguish.md
-archer.md
-armor.md
-arrogant.md
-ash.md
-assembly.md
-assign.md
-astray.md
-avenge.md
-awe.md
-ax.md
-banquet.md
-barley.md
-barren.md
-basket.md
-bear.md
-bearanimal.md
-beast.md
-beg.md
-betray.md
-biblicaltimeday.md
-biblicaltimehour.md
-biblicaltimemonth.md
-biblicaltimewatch.md
-biblicaltimeweek.md
-biblicaltimeyear.md
-blemish.md
-bloodshed.md
-blotout.md
-bold.md
-bookoflife.md
-bow.md
-bowweapon.md
-bread.md
-breastplate.md
-breath.md
-bribe.md
-bride.md
-bridegroom.md
-bronze.md
-burden.md
-burntoffering.md
-bury.md
-camel.md
-captive.md
-castout.md
-caughtup.md
-cedar.md
-census.md
-chaff.md
-chariot.md
-cherubim.md
-chief.md
-chronicles.md
-citizen.md
-clan.md
-clothed.md
-comfort.md
-commander.md
-commit.md
-companion.md
-conceive.md
-concubine.md
-confidence.md
-confirm.md
-consume.md
-contempt.md
-corrupt.md
-council.md
-counselor.md
-courage.md
-courtyard.md
-cow.md
-creation.md
-creature.md
-criminal.md
-crown.md
-cry.md
-cupbearer.md
-curtain.md
-cutoff.md
-cypress.md
-darkness.md
-death.md
-deceive.md
-declare.md
-decree.md
-dedicate.md
-deer.md
-defile.md
-delight.md
-deliverer.md
-descendant.md
-desecrate.md
-desert.md
-desolate.md
-destroyer.md
-detestable.md
-devastated.md
-devour.md
-discernment.md
-dishonor.md
-disobey.md
-disperse.md
-divination.md
-divorce.md
-doctrine.md
-donkey.md
-doom.md
-doorpost.md
-dove.md
-dream.md
-drinkoffering.md
-drunk.md
-dung.md
-eagle.md
-earth.md
-elder.md
-endure.md
-enslave.md
-envy.md
-evildoer.md
-exile.md
-exult.md
-face.md
-falseprophet.md
-falsewitness.md
-family.md
-famine.md
-fast.md
-father.md
-feast.md
-fellowshipoffering.md
-festival.md
-fig.md
-fir.md
-fire.md
-firstborn.md
-firstfruit.md
-fisherman.md
-flock.md
-flood.md
-flute.md
-footstool.md
-foreigner.md
-foreordain.md
-fornication.md
-forsaken.md
-foundation.md
-fountain.md
-frankincense.md
-free.md
-freewilloffering.md
-fruit.md
-furnace.md
-gate.md
-generation.md
-giant.md
-gird.md
-glean.md
-goat.md
-gold.md
-gossip.md
-governor.md
-grain.md
-grainoffering.md
-grape.md
-groan.md
-guiltoffering.md
-hail.md
-hand.md
-hang.md
-hard.md
-harp.md
-harvest.md
-haughty.md
-head.md
-heal.md
-heir.md
-highplaces.md
-holycity.md
-honey.md
-hooves.md
-horn.md
-horror.md
-horse.md
-horsemen.md
-hour.md
-house.md
-household.md
-image.md
-imitate.md
-incense.md
-inquire.md
-instruct.md
-integrity.md
-interpret.md
-jewishleaders.md
-joy.md
-judaism.md
-judgeposition.md
-kin.md
-kind.md
-king.md
-kingdom.md
-kiss.md
-know.md
-labor.md
-laborpains.md
-lamp.md
-lampstand.md
-law.md
-lawful.md
-learnedmen.md
-leopard.md
-leprosy.md
-letter.md
-light.md
-like.md
-lion.md
-livestock.md
-locust.md
-loins.md
-lots.md
-lover.md
-lowly.md
-lust.md
-lute.md
-magic.md
-magistrate.md
-manager.md
-mealoffering.md
-mediator.md
-meditate.md
-meek.md
-melt.md
-member.md
-memorialoffering.md
-messenger.md
-mighty.md
-mind.md
-mock.md
-mold.md
-mourn.md
-multiply.md
-mystery.md
-nation.md
-neighbor.md
-newmoon.md
-noble.md
-oak.md
-oath.md
-obey.md
-oil.md
-olive.md
-onhigh.md
-oppress.md
-ordain.md
-ordinance.md
-overseer.md
-overtake.md
-pagan.md
-palace.md
-palm.md
-partial.md
-patient.md
-patriarchs.md
-peace.md
-peaceoffering.md
-peoplegroup.md
-perfect.md
-persecute.md
-perseverance.md
-perverse.md
-pierce.md
-pig.md
-pillar.md
-pit.md
-plague.md
-plead.md
-pledge.md
-plow.md
-pomegranate.md
-possess.md
-praise.md
-preach.md
-precious.md
-prey.md
-prince.md
-prison.md
-profane.md
-profit.md
-prosper.md
-prostitute.md
-prostrate.md
-proud.md
-proverb.md
-province.md
-provoke.md
-prudent.md
-puffed-up.md
-punish.md
-purple.md
-push.md
-qualify.md
-queen.md
-quench.md
-rage.md
-raise.md
-rebel.md
-rebuke.md
-receive.md
-reed.md
-refuge.md
-reign.md
-reject.md
-renown.md
-report.md
-rest.md
-return.md
-reverence.md
-reward.md
-robe.md
-rod.md
-royal.md
-ruin.md
-ruler.md
-run.md
-sackcloth.md
-sacrifice.md
-sandal.md
-scepter.md
-scroll.md
-seal.md
-seed.md
-seek.md
-seize.md
-selah.md
-selfcontrol.md
-send.md
-serpent.md
-servant.md
-sex.md
-shadow.md
-shame.md
-sheep.md
-shepherd.md
-shield.md
-shrewd.md
-siege.md
-silver.md
-sinoffering.md
-sister.md
-skull.md
-slain.md
-slander.md
-slaughter.md
-sleep.md
-snare.md
-snow.md
-sorcery.md
-sow.md
-spear.md
-splendor.md
-staff.md
-statute.md
-stiffnecked.md
-storehouse.md
-strength.md
-strife.md
-strongdrink.md
-stronghold.md
-stumble.md
-stumblingblock.md
-subject.md
-submit.md
-suffer.md
-sulfur.md
-sweep.md
-sword.md
-tax.md
-teach.md
-teacher.md
-tencommandments.md
-tent.md
-tenth.md
-tentofmeeting.md
-terror.md
-thief.md
-thorn.md
-thresh.md
-threshold.md
-throne.md
-time.md
-tomb.md
-tongue.md
-torment.md
-tradition.md
-trample.md
-tremble.md
-trial.md
-tribe.md
-tribulation.md
-tribute.md
-trouble.md
-trumpet.md
-tunic.md
-turn.md
-understand.md
-vain.md
-veil.md
-vine.md
-vineyard.md
-virgin.md
-vision.md
-voice.md
-walk.md
-warrior.md
-waste.md
-watch.md
-watchtower.md
-water.md
-well.md
-wheat.md
-wine.md
-winepress.md
-winnow.md
-wisemen.md
-wolf.md
-womb.md
-written.md
-wrong.md
-yeast.md
-yoke.md
+#!/bin/sh
+
+pandoc -o ../en_tw_other.epub title.txt \
+../other/12tribesofisrael.md \
+../other/abyss.md \
+../other/acacia.md \
+../other/accuse.md \
+../other/acknowledge.md \
+../other/acquit.md \
+../other/administration.md \
+../other/admonish.md \
+../other/adversary.md \
+../other/afflict.md \
+../other/age.md \
+../other/alarm.md \
+../other/alms.md \
+../other/altarofincense.md \
+../other/amazed.md \
+../other/ambassador.md \
+../other/anguish.md \
+../other/archer.md \
+../other/armor.md \
+../other/arrogant.md \
+../other/ash.md \
+../other/assembly.md \
+../other/assign.md \
+../other/astray.md \
+../other/avenge.md \
+../other/awe.md \
+../other/ax.md \
+../other/banquet.md \
+../other/barley.md \
+../other/barren.md \
+../other/basket.md \
+../other/bear.md \
+../other/bearanimal.md \
+../other/beast.md \
+../other/beg.md \
+../other/betray.md \
+../other/biblicaltimeday.md \
+../other/biblicaltimehour.md \
+../other/biblicaltimemonth.md \
+../other/biblicaltimewatch.md \
+../other/biblicaltimeweek.md \
+../other/biblicaltimeyear.md \
+../other/blemish.md \
+../other/bloodshed.md \
+../other/blotout.md \
+../other/bold.md \
+../other/bookoflife.md \
+../other/bow.md \
+../other/bowweapon.md \
+../other/bread.md \
+../other/breastplate.md \
+../other/breath.md \
+../other/bribe.md \
+../other/bride.md \
+../other/bridegroom.md \
+../other/bronze.md \
+../other/burden.md \
+../other/burntoffering.md \
+../other/bury.md \
+../other/camel.md \
+../other/captive.md \
+../other/castout.md \
+../other/caughtup.md \
+../other/cedar.md \
+../other/census.md \
+../other/chaff.md \
+../other/chariot.md \
+../other/cherubim.md \
+../other/chief.md \
+../other/chronicles.md \
+../other/citizen.md \
+../other/clan.md \
+../other/clothed.md \
+../other/comfort.md \
+../other/commander.md \
+../other/commit.md \
+../other/companion.md \
+../other/conceive.md \
+../other/concubine.md \
+../other/confidence.md \
+../other/confirm.md \
+../other/consume.md \
+../other/contempt.md \
+../other/corrupt.md \
+../other/council.md \
+../other/counselor.md \
+../other/courage.md \
+../other/courtyard.md \
+../other/cow.md \
+../other/creation.md \
+../other/creature.md \
+../other/criminal.md \
+../other/crown.md \
+../other/cry.md \
+../other/cupbearer.md \
+../other/curtain.md \
+../other/cutoff.md \
+../other/cypress.md \
+../other/darkness.md \
+../other/death.md \
+../other/deceive.md \
+../other/declare.md \
+../other/decree.md \
+../other/dedicate.md \
+../other/deer.md \
+../other/defile.md \
+../other/delight.md \
+../other/deliverer.md \
+../other/descendant.md \
+../other/desecrate.md \
+../other/desert.md \
+../other/desolate.md \
+../other/destroyer.md \
+../other/detestable.md \
+../other/devastated.md \
+../other/devour.md \
+../other/discernment.md \
+../other/dishonor.md \
+../other/disobey.md \
+../other/disperse.md \
+../other/divination.md \
+../other/divorce.md \
+../other/doctrine.md \
+../other/donkey.md \
+../other/doom.md \
+../other/doorpost.md \
+../other/dove.md \
+../other/dream.md \
+../other/drinkoffering.md \
+../other/drunk.md \
+../other/dung.md \
+../other/eagle.md \
+../other/earth.md \
+../other/elder.md \
+../other/endure.md \
+../other/enslave.md \
+../other/envy.md \
+../other/evildoer.md \
+../other/exile.md \
+../other/exult.md \
+../other/face.md \
+../other/falseprophet.md \
+../other/falsewitness.md \
+../other/family.md \
+../other/famine.md \
+../other/fast.md \
+../other/father.md \
+../other/feast.md \
+../other/fellowshipoffering.md \
+../other/festival.md \
+../other/fig.md \
+../other/fir.md \
+../other/fire.md \
+../other/firstborn.md \
+../other/firstfruit.md \
+../other/fisherman.md \
+../other/flock.md \
+../other/flood.md \
+../other/flute.md \
+../other/footstool.md \
+../other/foreigner.md \
+../other/foreordain.md \
+../other/fornication.md \
+../other/forsaken.md \
+../other/foundation.md \
+../other/fountain.md \
+../other/frankincense.md \
+../other/free.md \
+../other/freewilloffering.md \
+../other/fruit.md \
+../other/furnace.md \
+../other/gate.md \
+../other/generation.md \
+../other/giant.md \
+../other/gird.md \
+../other/glean.md \
+../other/goat.md \
+../other/gold.md \
+../other/gossip.md \
+../other/governor.md \
+../other/grain.md \
+../other/grainoffering.md \
+../other/grape.md \
+../other/groan.md \
+../other/guiltoffering.md \
+../other/hail.md \
+../other/hand.md \
+../other/hang.md \
+../other/hard.md \
+../other/harp.md \
+../other/harvest.md \
+../other/haughty.md \
+../other/head.md \
+../other/heal.md \
+../other/heir.md \
+../other/highplaces.md \
+../other/holycity.md \
+../other/honey.md \
+../other/hooves.md \
+../other/horn.md \
+../other/horror.md \
+../other/horse.md \
+../other/horsemen.md \
+../other/hour.md \
+../other/house.md \
+../other/household.md \
+../other/image.md \
+../other/imitate.md \
+../other/incense.md \
+../other/inquire.md \
+../other/instruct.md \
+../other/integrity.md \
+../other/interpret.md \
+../other/jewishleaders.md \
+../other/joy.md \
+../other/judaism.md \
+../other/judgeposition.md \
+../other/kin.md \
+../other/kind.md \
+../other/king.md \
+../other/kingdom.md \
+../other/kiss.md \
+../other/know.md \
+../other/labor.md \
+../other/laborpains.md \
+../other/lamp.md \
+../other/lampstand.md \
+../other/law.md \
+../other/lawful.md \
+../other/learnedmen.md \
+../other/leopard.md \
+../other/leprosy.md \
+../other/letter.md \
+../other/light.md \
+../other/like.md \
+../other/lion.md \
+../other/livestock.md \
+../other/locust.md \
+../other/loins.md \
+../other/lots.md \
+../other/lover.md \
+../other/lowly.md \
+../other/lust.md \
+../other/lute.md \
+../other/magic.md \
+../other/magistrate.md \
+../other/manager.md \
+../other/mealoffering.md \
+../other/mediator.md \
+../other/meditate.md \
+../other/meek.md \
+../other/melt.md \
+../other/member.md \
+../other/memorialoffering.md \
+../other/messenger.md \
+../other/mighty.md \
+../other/mind.md \
+../other/mock.md \
+../other/mold.md \
+../other/mourn.md \
+../other/multiply.md \
+../other/mystery.md \
+../other/nation.md \
+../other/neighbor.md \
+../other/newmoon.md \
+../other/noble.md \
+../other/oak.md \
+../other/oath.md \
+../other/obey.md \
+../other/oil.md \
+../other/olive.md \
+../other/onhigh.md \
+../other/oppress.md \
+../other/ordain.md \
+../other/ordinance.md \
+../other/overseer.md \
+../other/overtake.md \
+../other/pagan.md \
+../other/palace.md \
+../other/palm.md \
+../other/partial.md \
+../other/patient.md \
+../other/patriarchs.md \
+../other/peace.md \
+../other/peaceoffering.md \
+../other/peoplegroup.md \
+../other/perfect.md \
+../other/persecute.md \
+../other/perseverance.md \
+../other/perverse.md \
+../other/pierce.md \
+../other/pig.md \
+../other/pillar.md \
+../other/pit.md \
+../other/plague.md \
+../other/plead.md \
+../other/pledge.md \
+../other/plow.md \
+../other/pomegranate.md \
+../other/possess.md \
+../other/praise.md \
+../other/preach.md \
+../other/precious.md \
+../other/prey.md \
+../other/prince.md \
+../other/prison.md \
+../other/profane.md \
+../other/profit.md \
+../other/prosper.md \
+../other/prostitute.md \
+../other/prostrate.md \
+../other/proud.md \
+../other/proverb.md \
+../other/province.md \
+../other/provoke.md \
+../other/prudent.md \
+../other/puffed-up.md \
+../other/punish.md \
+../other/purple.md \
+../other/push.md \
+../other/qualify.md \
+../other/queen.md \
+../other/quench.md \
+../other/rage.md \
+../other/raise.md \
+../other/rebel.md \
+../other/rebuke.md \
+../other/receive.md \
+../other/reed.md \
+../other/refuge.md \
+../other/reign.md \
+../other/reject.md \
+../other/renown.md \
+../other/report.md \
+../other/rest.md \
+../other/return.md \
+../other/reverence.md \
+../other/reward.md \
+../other/robe.md \
+../other/rod.md \
+../other/royal.md \
+../other/ruin.md \
+../other/ruler.md \
+../other/run.md \
+../other/sackcloth.md \
+../other/sacrifice.md \
+../other/sandal.md \
+../other/scepter.md \
+../other/scroll.md \
+../other/seal.md \
+../other/seed.md \
+../other/seek.md \
+../other/seize.md \
+../other/selah.md \
+../other/selfcontrol.md \
+../other/send.md \
+../other/serpent.md \
+../other/servant.md \
+../other/sex.md \
+../other/shadow.md \
+../other/shame.md \
+../other/sheep.md \
+../other/shepherd.md \
+../other/shield.md \
+../other/shrewd.md \
+../other/siege.md \
+../other/silver.md \
+../other/sinoffering.md \
+../other/sister.md \
+../other/skull.md \
+../other/slain.md \
+../other/slander.md \
+../other/slaughter.md \
+../other/sleep.md \
+../other/snare.md \
+../other/snow.md \
+../other/sorcery.md \
+../other/sow.md \
+../other/spear.md \
+../other/splendor.md \
+../other/staff.md \
+../other/statute.md \
+../other/stiffnecked.md \
+../other/storehouse.md \
+../other/strength.md \
+../other/strife.md \
+../other/strongdrink.md \
+../other/stronghold.md \
+../other/stumble.md \
+../other/stumblingblock.md \
+../other/subject.md \
+../other/submit.md \
+../other/suffer.md \
+../other/sulfur.md \
+../other/sweep.md \
+../other/sword.md \
+../other/tax.md \
+../other/teach.md \
+../other/teacher.md \
+../other/tencommandments.md \
+../other/tent.md \
+../other/tenth.md \
+../other/tentofmeeting.md \
+../other/terror.md \
+../other/thief.md \
+../other/thorn.md \
+../other/thresh.md \
+../other/threshold.md \
+../other/throne.md \
+../other/time.md \
+../other/tomb.md \
+../other/tongue.md \
+../other/torment.md \
+../other/tradition.md \
+../other/trample.md \
+../other/tremble.md \
+../other/trial.md \
+../other/tribe.md \
+../other/tribulation.md \
+../other/tribute.md \
+../other/trouble.md \
+../other/trumpet.md \
+../other/tunic.md \
+../other/turn.md \
+../other/understand.md \
+../other/vain.md \
+../other/veil.md \
+../other/vine.md \
+../other/vineyard.md \
+../other/virgin.md \
+../other/vision.md \
+../other/voice.md \
+../other/walk.md \
+../other/warrior.md \
+../other/waste.md \
+../other/watch.md \
+../other/watchtower.md \
+../other/water.md \
+../other/well.md \
+../other/wheat.md \
+../other/wine.md \
+../other/winepress.md \
+../other/winnow.md \
+../other/wisemen.md \
+../other/wolf.md \
+../other/womb.md \
+../other/written.md \
+../other/wrong.md \
+../other/yeast.md \
+../other/yoke.md

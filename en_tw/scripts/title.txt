@@ -1,6 +1,6 @@
 ---
-title: Pro Git
-author: Scott Chacon
-rights:  Creative Commons Non-Commercial Share Alike 3.0
+title: English Translation Notes - Category Other
+author: unfoldingWord
+rights:  Creative Commons Attribution-ShareAlike 4.0
 language: en-US
 ...
