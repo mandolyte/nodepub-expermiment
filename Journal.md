@@ -1,5 +1,18 @@
 # Journal
 
+## 2021-02-22 en_tw experiment
+
+Goal: create an ebook of the unfoldingWord Translation Word Markdown files.
+
+Constraints: Use minimal Pandoc setup and judge the quality / results.
+
+### Process
+
+First, downloaded zip of repo at:
+https://git.door43.org/unfoldingword/en_tw
+
+Next, extracted the zip and moved the content folder to this repo. On examination, there are three content folders (kt, names, and other). To keep this first attempt simple, will just use other.
+
 ## 2021-02-22 Obsidian+Pandoc continued...
 
 Some history on this idea already:
@@ -32,6 +45,10 @@ I saved the raw text for the manual into `Manual.md` at [[Manual]];
 I used the command: `pandoc Manual.md -o Pandoc.epub`; was able to easily import and view in Calibre.
 
 Here is the main page about ebooks in Pandoc: https://pandoc.org/epub.html
+
+NOTE: I've seen "Kindlegen" referenced a number of times, but per Amazon, it has been replaced with:
+https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765261
+And epub is the favored format to take as input to it.
 
 
 
