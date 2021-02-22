@@ -13,6 +13,14 @@ https://git.door43.org/unfoldingword/en_tw
 
 Next, extracted the zip and moved the content folder to this repo. On examination, there are three content folders (kt, names, and other). To keep this first attempt simple, will just use other.
 
+Script in `en_tw/scripts/run_ebook.sh`. The epub created is fairly plain with no table of contents.
+
+To Do:
+- add table of contents
+- fix the links between articles. Does Jesse have a scripture reference fixer scripts I can use to make the URI between articles actually work?
+- use Kindle Preview app to create a Kindle version and send it to my Kindle
+- 
+
 ## 2021-02-22 Obsidian+Pandoc continued...
 
 Some history on this idea already:
