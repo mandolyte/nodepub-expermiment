@@ -19,6 +19,8 @@ Anyone else looked at using Obsidian for an ebook?
 ```
 Here: https://www.reddit.com/r/ObsidianMD/comments/lpp2ew/ebook_creation/
 
+One response was a pointer to a "micro book", which is actually a published Obsidian vault. Very interesting, but not a book that could be read on epub or Kindle devices.
+
 ### Pandoc ebook demo
 https://pandoc.org/demos.html
 
